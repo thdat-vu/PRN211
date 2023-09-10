@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\bin\Debug\net6.0\DatVT.CsIntro.LanguageIntro.exe
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\bin\Debug\net6.0\DatVT.CsIntro.LanguageIntro.deps.json
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\bin\Debug\net6.0\DatVT.CsIntro.LanguageIntro.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\bin\Debug\net6.0\DatVT.CsIntro.LanguageIntro.dll
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\bin\Debug\net6.0\DatVT.CsIntro.LanguageIntro.pdb
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.dll
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\refint\DatVT.CsIntro.LanguageIntro.dll
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.pdb
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\DatVT.CsIntro.LanguageIntro.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.LanguageIntro\obj\Debug\net6.0\ref\DatVT.CsIntro.LanguageIntro.dll
