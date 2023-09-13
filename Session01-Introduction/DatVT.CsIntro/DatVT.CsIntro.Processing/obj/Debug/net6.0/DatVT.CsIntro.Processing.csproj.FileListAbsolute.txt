@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\bin\Debug\net6.0\DatVT.CsIntro.Processing.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\bin\Debug\net6.0\DatVT.CsIntro.Processing.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\bin\Debug\net6.0\DatVT.CsIntro.Processing.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\bin\Debug\net6.0\DatVT.CsIntro.Processing.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\bin\Debug\net6.0\DatVT.CsIntro.Processing.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\refint\DatVT.CsIntro.Processing.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\DatVT.CsIntro.Processing.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session01-Introduction\DatVT.CsIntro\DatVT.CsIntro.Processing\obj\Debug\net6.0\ref\DatVT.CsIntro.Processing.dll
