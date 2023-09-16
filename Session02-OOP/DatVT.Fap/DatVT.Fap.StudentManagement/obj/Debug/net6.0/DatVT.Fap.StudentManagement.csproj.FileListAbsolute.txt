@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\bin\Debug\net6.0\DatVT.Fap.StudentManagement.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\bin\Debug\net6.0\DatVT.Fap.StudentManagement.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\bin\Debug\net6.0\DatVT.Fap.StudentManagement.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\bin\Debug\net6.0\DatVT.Fap.StudentManagement.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\bin\Debug\net6.0\DatVT.Fap.StudentManagement.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\refint\DatVT.Fap.StudentManagement.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\DatVT.Fap.StudentManagement.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\DatVT.Fap\DatVT.Fap.StudentManagement\obj\Debug\net6.0\ref\DatVT.Fap.StudentManagement.dll
