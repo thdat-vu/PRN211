@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DatVT.Fap.StudentManagement.V2.Student</StartupObject>
+    <StartupObject>DatVT.Fap.StudentManagement.V5.Student</StartupObject>
   </PropertyGroup>
 
 </Project>
