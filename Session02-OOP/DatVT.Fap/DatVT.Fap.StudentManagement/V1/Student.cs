@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatVT.Fap.StudentManagement
+namespace DatVT.Fap.StudentManagement.V1
 {
     internal class Student
     {

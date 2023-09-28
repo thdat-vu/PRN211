@@ -21,11 +21,11 @@ namespace DatVT.Fap.StudentManagement.V5
 
         public Student()
         {
-                
+
         }
         public void PrintProfile()
         {
-            Console.WriteLine("ID: " + Id + "" +
+            Console.WriteLine("Student V5: ID: " + Id + "" +
                 "| Name: " + Name +
                 "| Yob:" + Yob);
         }
@@ -41,8 +41,16 @@ namespace DatVT.Fap.StudentManagement.V5
             Console.WriteLine("Print profile again");
             s1.PrintProfile();
             s2.PrintProfile();
-            Console.WriteLine(Name);
+            //Console.WriteLine(Name);
+            //static ko thể chơi vs non-static
+            //do non nằm ăn theo vùng new, có quá nhiều vùng new thì biết ăn theo thàng nào
             Console.WriteLine(Id);
+            //static chơi đc vs static
+            //sờ chạm static (hàm, field) ta 
+            //dùng tên-class
+            //do đây là đồ dùng chung cho toàn bộ các
+            //object
+            
         }
     }
 }
