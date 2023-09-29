@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\bin\Debug\net6.0\Geometric.Shapes.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\bin\Debug\net6.0\Geometric.Shapes.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\bin\Debug\net6.0\Geometric.Shapes.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\bin\Debug\net6.0\Geometric.Shapes.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\bin\Debug\net6.0\Geometric.Shapes.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\refint\Geometric.Shapes.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\Geometric.Shapes.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Geometric\Geometric.Shapes\obj\Debug\net6.0\ref\Geometric.Shapes.dll
