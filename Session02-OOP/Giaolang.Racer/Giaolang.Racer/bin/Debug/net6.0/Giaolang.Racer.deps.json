@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Giaolang.Racer/1.0.0": {
+        "runtime": {
+          "Giaolang.Racer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Giaolang.Racer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\bin\Debug\net6.0\Giaolang.Racer.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\bin\Debug\net6.0\Giaolang.Racer.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\bin\Debug\net6.0\Giaolang.Racer.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\bin\Debug\net6.0\Giaolang.Racer.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\bin\Debug\net6.0\Giaolang.Racer.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\refint\Giaolang.Racer.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\Giaolang.Racer.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session02-OOP\Giaolang.Racer\Giaolang.Racer\obj\Debug\net6.0\ref\Giaolang.Racer.dll
