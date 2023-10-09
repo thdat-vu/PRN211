@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\bin\Debug\net6.0\datvt.LoveStoryV2.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\bin\Debug\net6.0\datvt.LoveStoryV2.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\bin\Debug\net6.0\datvt.LoveStoryV2.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\bin\Debug\net6.0\datvt.LoveStoryV2.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\bin\Debug\net6.0\datvt.LoveStoryV2.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\refint\datvt.LoveStoryV2.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\datvt.LoveStoryV2.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LoveStory\datvt.LoveStoryV2\obj\Debug\net6.0\ref\datvt.LoveStoryV2.dll
