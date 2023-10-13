@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\bin\Debug\net6.0\Datvt.Delegate.InsideOut.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\bin\Debug\net6.0\Datvt.Delegate.InsideOut.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\bin\Debug\net6.0\Datvt.Delegate.InsideOut.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\bin\Debug\net6.0\Datvt.Delegate.InsideOut.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\bin\Debug\net6.0\Datvt.Delegate.InsideOut.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\refint\Datvt.Delegate.InsideOut.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\Datvt.Delegate.InsideOut.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.InsideOut\obj\Debug\net6.0\ref\Datvt.Delegate.InsideOut.dll

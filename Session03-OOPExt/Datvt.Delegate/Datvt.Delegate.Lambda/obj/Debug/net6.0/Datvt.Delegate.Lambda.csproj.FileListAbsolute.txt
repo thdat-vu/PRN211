@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\bin\Debug\net6.0\Datvt.Delegate.Lambda.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\bin\Debug\net6.0\Datvt.Delegate.Lambda.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\bin\Debug\net6.0\Datvt.Delegate.Lambda.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\bin\Debug\net6.0\Datvt.Delegate.Lambda.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\bin\Debug\net6.0\Datvt.Delegate.Lambda.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\refint\Datvt.Delegate.Lambda.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\Datvt.Delegate.Lambda.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Lambda\obj\Debug\net6.0\ref\Datvt.Delegate.Lambda.dll
