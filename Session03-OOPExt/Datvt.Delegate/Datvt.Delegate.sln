@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datvt.Delegate.InsideOut", "Datvt.Delegate.InsideOut\Datvt.Delegate.InsideOut.csproj", "{5322470E-FA6D-4785-99B9-DD24BA62DAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datvt.Delegate.Lambda", "Datvt.Delegate.Lambda\Datvt.Delegate.Lambda.csproj", "{FF78C326-21DE-4B83-9ABA-9781148C97A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datvt.Delegate.Lambda", "Datvt.Delegate.Lambda\Datvt.Delegate.Lambda.csproj", "{FF78C326-21DE-4B83-9ABA-9781148C97A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datvt.Delegate.Builtin", "Datvt.Delegate.Builtin\Datvt.Delegate.Builtin.csproj", "{FEB46681-EBD5-4183-B44D-A690D0F2140D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FF78C326-21DE-4B83-9ABA-9781148C97A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF78C326-21DE-4B83-9ABA-9781148C97A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF78C326-21DE-4B83-9ABA-9781148C97A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB46681-EBD5-4183-B44D-A690D0F2140D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB46681-EBD5-4183-B44D-A690D0F2140D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB46681-EBD5-4183-B44D-A690D0F2140D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB46681-EBD5-4183-B44D-A690D0F2140D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

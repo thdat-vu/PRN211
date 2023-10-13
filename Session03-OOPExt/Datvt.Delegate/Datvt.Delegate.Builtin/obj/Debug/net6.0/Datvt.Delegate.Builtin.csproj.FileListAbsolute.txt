@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\bin\Debug\net6.0\Datvt.Delegate.Builtin.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\bin\Debug\net6.0\Datvt.Delegate.Builtin.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\bin\Debug\net6.0\Datvt.Delegate.Builtin.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\bin\Debug\net6.0\Datvt.Delegate.Builtin.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\bin\Debug\net6.0\Datvt.Delegate.Builtin.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\refint\Datvt.Delegate.Builtin.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\Datvt.Delegate.Builtin.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.Builtin\obj\Debug\net6.0\ref\Datvt.Delegate.Builtin.dll
