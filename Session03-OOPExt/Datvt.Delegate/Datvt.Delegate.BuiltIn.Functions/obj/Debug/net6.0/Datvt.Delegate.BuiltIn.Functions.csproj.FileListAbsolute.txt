@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\refint\Datvt.Delegate.BuiltIn.Functions.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Functions.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Functions\obj\Debug\net6.0\ref\Datvt.Delegate.BuiltIn.Functions.dll

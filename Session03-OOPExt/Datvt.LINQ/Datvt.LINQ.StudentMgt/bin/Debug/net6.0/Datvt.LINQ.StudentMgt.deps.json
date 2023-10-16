@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Datvt.LINQ.StudentMgt/1.0.0": {
+        "runtime": {
+          "Datvt.LINQ.StudentMgt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datvt.LINQ.StudentMgt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

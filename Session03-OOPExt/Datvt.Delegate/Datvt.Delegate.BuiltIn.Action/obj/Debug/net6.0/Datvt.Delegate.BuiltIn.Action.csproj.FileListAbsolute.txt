@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\refint\Datvt.Delegate.BuiltIn.Action.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Action.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Action\obj\Debug\net6.0\ref\Datvt.Delegate.BuiltIn.Action.dll

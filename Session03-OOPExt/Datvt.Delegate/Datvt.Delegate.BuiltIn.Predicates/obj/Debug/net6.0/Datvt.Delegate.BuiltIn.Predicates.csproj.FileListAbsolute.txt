@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\bin\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\refint\Datvt.Delegate.BuiltIn.Predicates.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\Datvt.Delegate.BuiltIn.Predicates.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.Delegate\Datvt.Delegate.BuiltIn.Predicates\obj\Debug\net6.0\ref\Datvt.Delegate.BuiltIn.Predicates.dll

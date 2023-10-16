@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\Datvt.LINQ.StudentMgt.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\Datvt.LINQ.StudentMgt.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\Datvt.LINQ.StudentMgt.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\Datvt.LINQ.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\Datvt.LINQ.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\refint\Datvt.LINQ.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\ref\Datvt.LINQ.StudentMgt.dll
