@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Datvt.LINQ.StudentMgt/1.0.0": {
+        "dependencies": {
+          "DatVT.MathUtility.Math": "6.8.0"
+        },
         "runtime": {
           "Datvt.LINQ.StudentMgt.dll": {}
+        }
+      },
+      "DatVT.MathUtility.Math/6.8.0": {
+        "runtime": {
+          "DatVT.MathUtility.Math.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Datvt.LINQ.StudentMgt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatVT.MathUtility.Math/6.8.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

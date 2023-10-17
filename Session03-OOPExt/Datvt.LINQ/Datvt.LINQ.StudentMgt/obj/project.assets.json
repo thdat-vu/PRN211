@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "DatVT.MathUtility.Math/6.8.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DatVT.MathUtility.Math.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatVT.MathUtility.Math.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DatVT.MathUtility.Math/6.8.0": {
+      "type": "project",
+      "path": "../DatVT.MathUtility.Math/DatVT.MathUtility.Math.csproj",
+      "msbuildProject": "../DatVT.MathUtility.Math/DatVT.MathUtility.Math.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "DatVT.MathUtility.Math >= 6.8.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\UniversityStuff\\ki5\\PRN211\\PRN211\\Session03-OOPExt\\Datvt.LINQ\\DatVT.MathUtility.Math\\DatVT.MathUtility.Math.csproj": {
+              "projectPath": "D:\\UniversityStuff\\ki5\\PRN211\\PRN211\\Session03-OOPExt\\Datvt.LINQ\\DatVT.MathUtility.Math\\DatVT.MathUtility.Math.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

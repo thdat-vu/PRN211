@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DatVT.Dll.Usage/1.0.0": {
+        "dependencies": {
+          "DatVT.MathUtility.Math": "6.8.0.0"
+        },
+        "runtime": {
+          "DatVT.Dll.Usage.dll": {}
+        }
+      },
+      "DatVT.MathUtility.Math/6.8.0.0": {
+        "runtime": {
+          "DatVT.MathUtility.Math.dll": {
+            "assemblyVersion": "6.8.0.0",
+            "fileVersion": "6.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatVT.Dll.Usage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatVT.MathUtility.Math/6.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

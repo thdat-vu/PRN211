@@ -12,3 +12,7 @@ D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.Stud
 D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.pdb
 D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.genruntimeconfig.cache
 D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\ref\Datvt.LINQ.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\DatVT.MathUtility.Math.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\bin\Debug\net6.0\DatVT.MathUtility.Math.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.csproj.AssemblyReference.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\Datvt.LINQ.StudentMgt\obj\Debug\net6.0\Datvt.LINQ.StudentMgt.csproj.CopyComplete

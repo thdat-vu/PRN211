@@ -29,5 +29,12 @@ namespace Datvt.LINQ.StudentMgt
                 "as a a style of 'Ơ mây zing gút job em'");
             doSomething();
         }
+
+        public void DoComputation(Func<int, long> doCalculation, int n)
+        {
+            Console.WriteLine("For now, I will compute something on " + n);
+
+            Console.WriteLine("Result: "+doCalculation(n)); 
+        }
     }
 }

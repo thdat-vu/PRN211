@@ -1,0 +1,11 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\bin\Debug\net6.0\DatVT.MathUtility.Math.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\bin\Debug\net6.0\DatVT.MathUtility.Math.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\bin\Debug\net6.0\DatVT.MathUtility.Math.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\refint\DatVT.MathUtility.Math.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\DatVT.MathUtility.Math.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\Datvt.LINQ\DatVT.MathUtility.Math\obj\Debug\net6.0\ref\DatVT.MathUtility.Math.dll
