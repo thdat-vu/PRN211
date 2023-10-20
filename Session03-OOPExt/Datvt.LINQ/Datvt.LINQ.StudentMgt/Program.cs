@@ -1,6 +1,5 @@
 ﻿
-
-using static DatVT.MathUtility.Math.MathUtility;
+using DatVT.MathUtility.Math;
 
 namespace Datvt.LINQ.StudentMgt
 

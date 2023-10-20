@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DatVT.LINQ.V2.StudentMgt
 {
-    internal class Student
+    public class Student
     {
         public string Id { get; set; }
         public string Name { get; set; }

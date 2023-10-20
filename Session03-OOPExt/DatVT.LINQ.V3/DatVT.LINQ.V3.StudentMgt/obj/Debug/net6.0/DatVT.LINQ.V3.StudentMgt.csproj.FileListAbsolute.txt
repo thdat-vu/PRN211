@@ -1,0 +1,14 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\bin\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\bin\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\bin\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\bin\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\bin\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\refint\DatVT.LINQ.V3.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\DatVT.LINQ.V3.StudentMgt.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session03-OOPExt\DatVT.LINQ.V3\DatVT.LINQ.V3.StudentMgt\obj\Debug\net6.0\ref\DatVT.LINQ.V3.StudentMgt.dll
