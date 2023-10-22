@@ -1,0 +1,17 @@
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\bin\Debug\net6.0-windows\DatVT.FAP.StudentMgt.exe
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\bin\Debug\net6.0-windows\DatVT.FAP.StudentMgt.deps.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\bin\Debug\net6.0-windows\DatVT.FAP.StudentMgt.runtimeconfig.json
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\bin\Debug\net6.0-windows\DatVT.FAP.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\bin\Debug\net6.0-windows\DatVT.FAP.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.csproj.GenerateResource.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.AssemblyInfoInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.AssemblyInfo.cs
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\refint\DatVT.FAP.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.pdb
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.genruntimeconfig.cache
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\ref\DatVT.FAP.StudentMgt.dll
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.StudentListForm.resources
+D:\UniversityStuff\ki5\PRN211\PRN211\Session04-GUI\DatVT.FAP\DatVT.FAP.StudentMgt\obj\Debug\net6.0-windows\DatVT.FAP.StudentMgt.Properties.Resources.resources
