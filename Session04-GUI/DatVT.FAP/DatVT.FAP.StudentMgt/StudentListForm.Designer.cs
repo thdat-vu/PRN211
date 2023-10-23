@@ -44,9 +44,14 @@
             txtName = new TextBox();
             txtAddress = new TextBox();
             grpInfo = new GroupBox();
+            btnAddnew = new Button();
+            btnSearch = new Button();
+            txtKeyword = new TextBox();
+            dgvResult = new DataGridView();
             ((System.ComponentModel.ISupportInitialize)pictAvatar).BeginInit();
             pnlImage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvStudentsList).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgvResult).BeginInit();
             SuspendLayout();
             // 
             // btnExit
@@ -76,10 +81,10 @@
             // 
             // pictAvatar
             // 
-            pictAvatar.Location = new Point(10, 11);
+            pictAvatar.Location = new Point(10, 4);
             pictAvatar.Margin = new Padding(3, 4, 3, 4);
             pictAvatar.Name = "pictAvatar";
-            pictAvatar.Size = new Size(387, 205);
+            pictAvatar.Size = new Size(309, 129);
             pictAvatar.SizeMode = PictureBoxSizeMode.Zoom;
             pictAvatar.TabIndex = 3;
             pictAvatar.TabStop = false;
@@ -97,19 +102,19 @@
             // 
             pnlImage.AutoScroll = true;
             pnlImage.Controls.Add(pictAvatar);
-            pnlImage.Location = new Point(172, 307);
+            pnlImage.Location = new Point(149, 308);
             pnlImage.Name = "pnlImage";
-            pnlImage.Size = new Size(396, 198);
+            pnlImage.Size = new Size(275, 114);
             pnlImage.TabIndex = 5;
             // 
             // dgvStudentsList
             // 
             dgvStudentsList.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvStudentsList.Location = new Point(602, 282);
+            dgvStudentsList.Location = new Point(457, 308);
             dgvStudentsList.Name = "dgvStudentsList";
             dgvStudentsList.RowHeadersWidth = 51;
             dgvStudentsList.RowTemplate.Height = 29;
-            dgvStudentsList.Size = new Size(538, 207);
+            dgvStudentsList.Size = new Size(451, 207);
             dgvStudentsList.TabIndex = 6;
             dgvStudentsList.SelectionChanged += ShowStudent;
             // 
@@ -125,7 +130,7 @@
             // 
             // btnLoadData
             // 
-            btnLoadData.Location = new Point(602, 109);
+            btnLoadData.Location = new Point(457, 246);
             btnLoadData.Name = "btnLoadData";
             btnLoadData.Size = new Size(94, 29);
             btnLoadData.TabIndex = 7;
@@ -136,7 +141,7 @@
             // lblId
             // 
             lblId.AutoSize = true;
-            lblId.Location = new Point(740, 118);
+            lblId.Location = new Point(606, 127);
             lblId.Name = "lblId";
             lblId.Size = new Size(31, 20);
             lblId.TabIndex = 8;
@@ -145,7 +150,7 @@
             // lblName
             // 
             lblName.AutoSize = true;
-            lblName.Location = new Point(740, 166);
+            lblName.Location = new Point(606, 175);
             lblName.Name = "lblName";
             lblName.Size = new Size(56, 20);
             lblName.TabIndex = 9;
@@ -154,7 +159,7 @@
             // lblAddress
             // 
             lblAddress.AutoSize = true;
-            lblAddress.Location = new Point(740, 215);
+            lblAddress.Location = new Point(606, 224);
             lblAddress.Name = "lblAddress";
             lblAddress.Size = new Size(69, 20);
             lblAddress.TabIndex = 10;
@@ -162,39 +167,80 @@
             // 
             // txtId
             // 
-            txtId.Location = new Point(830, 115);
+            txtId.Location = new Point(696, 124);
             txtId.Name = "txtId";
             txtId.Size = new Size(166, 27);
             txtId.TabIndex = 11;
             // 
             // txtName
             // 
-            txtName.Location = new Point(830, 166);
+            txtName.Location = new Point(696, 175);
             txtName.Name = "txtName";
             txtName.Size = new Size(166, 27);
             txtName.TabIndex = 12;
             // 
             // txtAddress
             // 
-            txtAddress.Location = new Point(830, 212);
+            txtAddress.Location = new Point(696, 221);
             txtAddress.Name = "txtAddress";
             txtAddress.Size = new Size(166, 27);
             txtAddress.TabIndex = 13;
             // 
             // grpInfo
             // 
-            grpInfo.Location = new Point(720, 85);
+            grpInfo.Location = new Point(586, 94);
             grpInfo.Name = "grpInfo";
             grpInfo.Size = new Size(322, 181);
             grpInfo.TabIndex = 14;
             grpInfo.TabStop = false;
             grpInfo.Text = "Student Info";
             // 
+            // btnAddnew
+            // 
+            btnAddnew.Location = new Point(457, 118);
+            btnAddnew.Name = "btnAddnew";
+            btnAddnew.Size = new Size(94, 29);
+            btnAddnew.TabIndex = 15;
+            btnAddnew.Text = "Add New Student";
+            btnAddnew.UseVisualStyleBackColor = true;
+            btnAddnew.Click += AddNewStudent;
+            // 
+            // btnSearch
+            // 
+            btnSearch.Location = new Point(946, 246);
+            btnSearch.Name = "btnSearch";
+            btnSearch.Size = new Size(94, 29);
+            btnSearch.TabIndex = 16;
+            btnSearch.Text = "Search";
+            btnSearch.UseVisualStyleBackColor = true;
+            btnSearch.Click += SearchStudents;
+            // 
+            // txtKeyword
+            // 
+            txtKeyword.Location = new Point(1077, 248);
+            txtKeyword.Name = "txtKeyword";
+            txtKeyword.Size = new Size(166, 27);
+            txtKeyword.TabIndex = 18;
+            // 
+            // dgvResult
+            // 
+            dgvResult.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvResult.Location = new Point(948, 308);
+            dgvResult.Name = "dgvResult";
+            dgvResult.RowHeadersWidth = 51;
+            dgvResult.RowTemplate.Height = 29;
+            dgvResult.Size = new Size(295, 207);
+            dgvResult.TabIndex = 19;
+            // 
             // StudentListForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1171, 682);
+            ClientSize = new Size(1350, 682);
+            Controls.Add(dgvResult);
+            Controls.Add(txtKeyword);
+            Controls.Add(btnSearch);
+            Controls.Add(btnAddnew);
             Controls.Add(pnlImage);
             Controls.Add(txtAddress);
             Controls.Add(txtName);
@@ -212,10 +258,10 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "StudentListForm";
             Text = "Student List";
-            Click += SayHello;
             ((System.ComponentModel.ISupportInitialize)pictAvatar).EndInit();
             pnlImage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dgvStudentsList).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgvResult).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -237,5 +283,9 @@
         private TextBox txtName;
         private TextBox txtAddress;
         private GroupBox grpInfo;
+        private Button btnAddnew;
+        private Button btnSearch;
+        private TextBox txtKeyword;
+        private DataGridView dgvResult;
     }
 }

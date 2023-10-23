@@ -2,6 +2,7 @@
 {
     public partial class StudentListForm : Form
     {
+        List<Student> _ds = new List<Student>();
         public StudentListForm()
         {
             InitializeComponent();
@@ -42,11 +43,11 @@
 
         private void LoadData(object sender, EventArgs e)
         {
-            List<Student> ds = new List<Student>();
-            ds.Add(new Student() { Id = "SE1", Name = "An", Address = "Dương đông" });
-            ds.Add(new Student() { Id = "SE2", Name = "Dương", Address = "Tân Bình" });
-            ds.Add(new Student() { Id = "SE3", Name = "Dũng", Address = "Tân An" });
-            dgvStudentsList.DataSource = ds;
+
+            _ds.Add(new Student() { Id = "SE1", Name = "An", Address = "Dương đông" });
+            _ds.Add(new Student() { Id = "SE2", Name = "Dương", Address = "Tân Bình" });
+            _ds.Add(new Student() { Id = "SE3", Name = "Dũng", Address = "Tân An" });
+            dgvStudentsList.DataSource = _ds;
         }
 
         private void ShowStudent(object sender, EventArgs e)
@@ -56,12 +57,50 @@
             //DataGridView dgv = new DataGridView();
             //                  dgv.DataSource = danh sách này
             //                  dgv.Click += chừa chỗ hàm ai đó
-            //                  dgv.Click thì làm gì, gọi hàm nấy
+            //                  dgv.Click thì làm gì, gọi hàm này
             //                  xài các chấm khác để biết dòng nào đc chọn, lấy từng cell
-            if(dgvStudentsList.SelectedRows.Count > 0)
+            if (dgvStudentsList.SelectedRows.Count > 0)
             {
+                //lấy ra dòng vừa chọn, trích từng cell ra 
+                DataGridViewRow selectedRow = dgvStudentsList.SelectedRows[0];
+                txtId.Text = selectedRow.Cells[0].Value.ToString();
+                txtName.Text = selectedRow.Cells[1].Value.ToString();//cùng 1 dòng, từ trái sang phải qua là cell 1
+                txtAddress.Text = selectedRow.Cells[2].Value.ToString();//cùng 1, từ trái sang phải qua là cell 2
 
             }
+        }
+
+        private void AddNewStudent(object sender, EventArgs e)
+        {
+            Student x = new Student();
+            x.Id = txtId.Text;
+            x.Name = txtName.Text;
+            x.Address = txtAddress.Text;
+            _ds.Add(x);
+            //refresh cái grid
+            dgvStudentsList.DataSource = null; //clear grid
+            dgvStudentsList.DataSource = _ds;
+        }
+
+        //private void SearchStudents(object sender, EventArgs e)
+        //{
+        //   var r = _ds.Where(CheckStudentWhereDuong).ToList() ; // trả về 1 list thực sự
+        //    //trả về 1 list
+        //    dgvResult.DataSource = null;
+        //    dgvResult.DataSource = r;
+
+        //}
+        private bool CheckStudentWhereDuong(Student xxx) => xxx.Name == "Dương";
+
+
+        private void SearchStudents(object sender, EventArgs e)
+        {
+            //var r = _ds.Where((xxx) => xxx.Name == txtKeyword.Text).ToList(); // trả về 1 list thực sự
+            var r = _ds.Where((xxx) => xxx.Name.ToLower().Contains(txtKeyword.Text.ToLower())
+            ||xxx.Address.ToLower().Contains(txtKeyword.Text.ToLower())).ToList();
+            //trả về 1 list
+            dgvResult.DataSource = null;
+            dgvResult.DataSource = r;
         }
     }
 }
